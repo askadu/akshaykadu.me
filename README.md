@@ -1,2 +1,2 @@
-# akshaykadu.me
-Display resume on web page
+# Akshay's Resume
+The website for showcasing resume on www.

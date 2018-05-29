@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(27, 103, 133) !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.heading {
+    background-color: rgb(238, 237, 237);
+    border-bottom: 2px solid lightgray;
+}
+
+.wrapper {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.content {
+    background-color: rgb(245, 245, 245);
+}
+.exp-heading {
+    color: rgb(136, 86, 86);
+    font-weight: 600;
+}
+.position {
+    font-weight: 600;
+    margin-bottom: 0;
+    
+}
+.period {
+    font-size: 12px;
+    font-style: italic;
+}
+.description {
+    margin-top: 10px;
+}
